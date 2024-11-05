@@ -3,8 +3,8 @@ const config = {
   description: {
     EN: {
       short:
-        "Loup Sardin is a doctoral student <a href=\"https://umr-lisis.fr/membre/loup-sardin/\" target=\"_blank\">" +
-        "affiliated to the Laboratoire Interdisciplinaire Sciences Innovations Sociétés (LISIS)</a> and Paris Saclay Applied Economics (PSAE) since April 2023, " +
+        "Loup Sardin is a doctoral student affiliated to the <a href=\"https://umr-lisis.fr/membre/loup-sardin/\" target=\"_blank\">" +
+        " Laboratoire Interdisciplinaire Sciences Innovations Sociétés (LISIS)</a> and Paris Saclay Applied Economics (PSAE) since April 2023, " +
         "where he is working on a PHD on the integration of environmental imperatives in companies, " +
         "taking as a case study the management and potential valorisation of vegetation at SNCF. " +
         "His research is being supervised by Emmanuel Kessous (LISIS) and Caroline Orset (PSAE). " +
