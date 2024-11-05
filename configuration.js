@@ -1,52 +1,29 @@
 const config = {
-  name: "Guillaume Levrier",
+  name: "Loup Sardin",
   description: {
     EN: {
-      short: `Guillaume Levrier is a political scientist working on biotechnology, currently a CNRS postdoc for the
-        <a href="https://cordis.europa.eu/project/id/951393" target="_blank">Nanobubbles ERC grant</a>. He is affiliated
-        to the <a href="http://umr-lisis.fr/membre/guillaume-levrier/" target="_blank">Laboratoire Interdisciplinaire
-          Sciences Innovations Sociétés (LISIS)</a>, and is a research associate to <a
-            href="https://www.sciencespo.fr/cevipof/en/researcher/guillaume-levrier.html"
-            target="_blank">CEVIPOF (Sciences Po)</a> and to the French National Library (BnF). `,
+      short: `Loup Sardin is a doctoral student <a href="https://umr-lisis.fr/membre/loup-sardin/" target="_blank">
+     affiliated to the Laboratoire Interdisciplinaire Sciences Innovations Sociétés (LISIS) and Paris Saclay Applied Economics (PSAE) since April 2023, 
+      where he is working on a PHD on the integration of environmental imperatives in companies, 
+      taking as a case study the management and potential valorisation of vegetation at SNCF. 
+      His research is being supervised by Emmanuel Kessous (LISIS) and Caroline Orset (PSAE). 
+      This CIFRE PHD, in sociology and economics, is financially supported by SNCF Réseau.
       long: "",
     },
     FR: {
-      short: `Guillaume Levrier est un chercheur en sciences
-        politiques
-        spécialisé sur les biotechnologies, actuellement postdoc CNRS pour le <a
-          href="https://cordis.europa.eu/project/id/951393" target="_blank">projet
-          ERC Nanobubbles</a>. Il est affilié au <a
-            href="http://umr-lisis.fr/membre/guillaume-levrier/"
-            target="_blank">Laboratoire Interdisciplinaire
-          Sciences
-          Innovations Sociétés (LISIS)</a>, est associé au <a
-            href="https://www.sciencespo.fr/cevipof/fr/chercheur/guillaume-levrier.html"
-            target="_blank">CEVIPOF (Sciences Po)</a> et à la Bibliothèque nationale de
-        France (BnF).`,
+      short: `Loup Sardin est doctorant au <a href="https://umr-lisis.fr/membre/loup-sardin/" target="_blank">Laboratoire Interdisciplinaire
+          Sciences Innovations Sociétés (LISIS) et à Paris Saclay Applied Economics (PSAE) depuis avril 2023
+          où il réalise une thèse sur l’intégration des impératifs environnementaux en entreprise, en prenant pour étude de cas la maîtrise et la valorisation potentielle de la végétation à la SNCF. 
+          Sa recherche est dirigée par Emmanuel Kessous (LISIS) et Caroline Orset (PSAE). Cette thèse CIFRE, en sociologie et économie, bénéficie du soutien financier de SNCF Réseau.  `,
       long: "",
     },
   },
   links: [
     {
-      label: "twitter",
-      value: "@g_levrier",
-      url: "https://twitter.com/g_levrier",
-    },
-    {
-      label: "google scholar",
+      label: "linkedin",
       value: "profile",
-      url: "https://scholar.google.com/citations?user=IRiJFNMAAAAJ&hl=en",
-    },
-    {
-      label: "pubpeer",
-      value: "profile",
-      url: "https://pubpeer.com/search?q=guillaume+levrier",
-    },
-    {
-      label: "linked in",
-      value: "profile",
-      url: "https://www.linkedin.com/in/guillaume-levrier-phd-89156838/",
+      url: "https://www.linkedin.com/in/loup-sardin-999258145/",
     },
   ],
-  email: { name: "guillaume.levrier", domain: "politique.science" },
+  email: { name: "loupsardin", domain: "gmail.com" },
 };
